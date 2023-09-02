@@ -1,0 +1,6 @@
+C:\Users\Александр\source\repos\Calculatorr\Calculatorr\bin\Debug\Calculatorr.dll
+C:\Users\Александр\source\repos\Calculatorr\Calculatorr\bin\Debug\Calculatorr.pdb
+C:\Users\Александр\source\repos\Calculatorr\Calculatorr\obj\Debug\Calculatorr.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\Calculatorr\Calculatorr\obj\Debug\Calculatorr.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\Calculatorr\Calculatorr\obj\Debug\Calculatorr.dll
+C:\Users\Александр\source\repos\Calculatorr\Calculatorr\obj\Debug\Calculatorr.pdb
